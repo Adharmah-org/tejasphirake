@@ -1,0 +1,8 @@
+{
+  "name": "Kapti Rooh ",
+  "description": "An immersive, premium digital library featuring author Tejas Purvesh Phirake’s novels, plays, and multilingual poetry collection with atmospheric reading experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

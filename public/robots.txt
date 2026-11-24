@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /author-studio
+Disallow: /api/
+
+Sitemap: https://tejasphirake.vercel.app/sitemap.xml
